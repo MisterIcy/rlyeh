@@ -1,0 +1,2 @@
+﻿# R'lyeh application updater
+
